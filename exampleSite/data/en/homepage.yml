@@ -16,7 +16,7 @@ features:
   image: images/portrait-jobs-b-w.jpg
   left_side:
   - title: Create Videos
-    icon: tf-ion-ios-alarm-outline
+    icon: ''
     content: I do contract videography as my main source of income. I specialise in
       promotional content such as short ads, social media posts, etc.
   - title: Elegant Design

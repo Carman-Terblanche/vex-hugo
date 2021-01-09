@@ -2,6 +2,12 @@
 label: Product
 hide_body: false
 fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: id
+  hidden: true
 - type: text
   name: title
   label: title
@@ -17,12 +23,6 @@ fields:
 - type: text
   name: price
   label: price
-- name: id
-  type: text
-  config:
-    required: false
-  label: id
-  hidden: true
 pages:
 - exampleSite/content/english/products/warm-cinema-faded-lut.md
 - exampleSite/content/english/products/warm-cinema-faded-lut.md

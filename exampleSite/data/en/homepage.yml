@@ -37,7 +37,7 @@ about_product:
   enable: true
   title: What Are LUTs?
   items:
-  - image: images/img_20210101_024751-2.jpg
+  - image: images/lut1.jpg
     title: Description
     content: 'Lower urinary tract symptoms (LUTS). . . Wait, that''s not right. Lookup
       Tables (LUTs) are used to grade your video footage to look a certain way depending

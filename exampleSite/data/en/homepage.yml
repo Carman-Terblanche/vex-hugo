@@ -37,7 +37,7 @@ about_product:
   enable: true
   title: What Are LUTs?
   items:
-  - image: images/showcase/showcase-4.png
+  - image: images/img_20210101_024751-2.jpg
     title: Description
     content: 'Lower urinary tract symptoms (LUTS). . . Wait, that''s not right. Lookup
       Tables (LUTs) are used to grade your video footage to look a certain way depending
@@ -46,7 +46,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
+  - image: images/
     title: Do I NEED To Buy LUTs?
     content: No, you don't. But buying LUTs from me helps support my work for a small
       fee. Kind of like a donatin, but you get something out of it. Also, it speeds

@@ -6,8 +6,8 @@ images:
 - "/images/warm-cinema-faded-no-lut.JPG"
 description: This LUT gives a warm faded look for a more cinematic, moody fade. It
   works well with harsh outside highlights to soften the look.
-price: "9"
-discount_price: "9"
+price: "5"
+discount_price: '9'
 colors: []
 sizes: []
 

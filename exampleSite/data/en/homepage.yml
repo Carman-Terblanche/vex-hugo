@@ -47,10 +47,11 @@ about_product:
       label: Check Features
       link: "#"
   - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Do I NEED To Buy LUTs?
+    content: No, you don't. But buying LUTs from me helps support my work for a small
+      fee. Kind of like a donatin, but you get something out of it. Also, it speeds
+      up your production time since you don't need to figure out all the colour options
+      and mood for your shots. So buying my LUTs helps me help you and vice versa.
     button:
       enable: false
       label: Check Features

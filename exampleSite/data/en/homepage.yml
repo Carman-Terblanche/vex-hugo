@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: What I do
-  image: images/watch-2.png
+  image: images/portrait-jobs-b-w.jpg
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline

@@ -24,14 +24,6 @@ features:
     icon: ''
     content: 'I have a YouTube channel where I post my videos: commentary, skits and
       reviews alike. '
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
 promo:
   enable: true
   image: images/watch.png

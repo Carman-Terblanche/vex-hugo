@@ -17,3 +17,5 @@ fields:
 - type: text
   name: price
   label: price
+pages:
+- exampleSite/content/english/products/warm-cinema-faded-lut.md

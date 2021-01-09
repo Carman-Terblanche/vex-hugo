@@ -1,24 +1,15 @@
 ---
-title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Warm Cinema Faded LUT
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- "/images/warm-cinema-faded-no-lut.JPG"
+- "/images/warm-cinema-faded-with-lut.jpg"
+description: This LUT gives a warm faded look for a more cinematic, moody fade. It
+  works well with harsh outside highlights to soften the look.
+price: "9"
+discount_price: "0"
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+This LUT gives a warm faded look for a more cinematic, moody fade. It works well with harsh outside highlights to soften the look.

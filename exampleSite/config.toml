@@ -19,36 +19,49 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 3
+name = "Blog"
+url = "blog"
+weight = 1
+[[menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 2
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
-weight = 2
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
 weight = 3
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 name = "Products"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Blog"
+url = "blog"
+weight = 3
+[[menu.main]]
+name = "Review"
+pre = "#"
+url = "testimonial"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "85px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"

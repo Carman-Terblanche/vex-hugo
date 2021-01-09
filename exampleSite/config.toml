@@ -1,5 +1,5 @@
 baseurl = "carmanillustrations.art/"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"

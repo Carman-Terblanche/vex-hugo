@@ -1,4 +1,5 @@
 +++
+data-item-file-guid = "c4c94de1-7ca6-40c9-b344-d823c0fdb57f"
 date = ""
 description = "This LUT gives a warm faded look for a more cinematic, moody fade. It works well with harsh outside highlights to soften the look."
 id = "c4c94de1-7ca6-40c9-b344-d823c0fdb57f"

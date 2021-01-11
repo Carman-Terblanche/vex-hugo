@@ -49,7 +49,7 @@ currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "55px"
-snipcart_api = "OTc4ZmMzMGItZmVkZS00ODc1LWE0NjUtN2E4OWYxMDIxM2I2NjM3NDU3ODk0Njg4MzE3NjQz"
+snipcart_api = "MjVkODhkOGQtNTczMi00N2VhLWFkZmEtZTYzNGZlY2RmZjUzNjM3NDU3ODk0Njg4MzE3NjQz"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]

@@ -6,8 +6,8 @@ fields:
   type: text
   config:
     required: false
-  label: id
   hidden: false
+  label: data-item-file-guid
 - type: text
   name: title
   label: title

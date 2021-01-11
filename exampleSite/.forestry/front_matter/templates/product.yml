@@ -2,12 +2,12 @@
 label: Product
 hide_body: false
 fields:
-- name: id
+- name: data-item-file-guid
   type: text
   config:
     required: false
   hidden: false
-  label: data-item-file-guid
+  label: ID
 - type: text
   name: title
   label: title

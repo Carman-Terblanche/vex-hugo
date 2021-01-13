@@ -3,8 +3,8 @@ banner:
   enable: true
   title: The Official Carman Illustrations Shop
   content: Welcome to the official Carmanillustrations shop where you can pick up
-    some of my LUTs for a small fee to support me as an artist. Maybe something more
-    will come to the shop, you never know.
+    some of my products to support me as an artist. Maybe something more will come
+    to the shop, you never know.
   image: images/pexels-ava-motive-1051544.jpg
   button:
     enable: true
@@ -34,7 +34,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: What Are LUTs?
   items:
   - image: images/lut1.jpg
